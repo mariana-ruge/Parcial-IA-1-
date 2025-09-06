@@ -1,0 +1,37 @@
+# ==========================
+# Python
+# ==========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuciones
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Entorno virtual
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# PyCharm / IDE
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
