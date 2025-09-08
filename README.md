@@ -3,7 +3,7 @@
 Este proyecto implementa y compara diversos algoritmos de búsqueda en grafos, considerando grafos estáticos y dinámicos, métricas personalizadas y visualizaciones interactivas. El enfoque se centra en escenarios del sector (por ejemplo, transporte, energía o salud) para optimizar rutas o procesos.
 
 Realizado por:
-- Alejandro Guevara
+- Diego Alejandro Guevara
 - Paula Alejandra Ortiz
 - Mariana Ruge Vargas
 
@@ -57,7 +57,13 @@ Realizado por:
 ## Estructura de archivos
 
 - Parcial 1 IA:  Punto 1 y 2
-- Parcial 1 Parte 2: Punto 4 y 5
+[Link al colab](https://colab.research.google.com/drive/1fBJsq2tXcKT9RhbKYgcu2XuJJHDw_I6M?usp=sharing "Link al colab")
+- Parcial 1 Parte 2: Punto 4
+[Link al colab](https://colab.research.google.com/drive/1fBJsq2tXcKT9RhbKYgcu2XuJJHDw_I6M?usp=sharing "Link al colab")
+
+- Parcial 1 - Punto 5
+[Link al colab](https://colab.research.google.com/drive/1Ow_iUl4h2VDbk7I2eGXGmUZkpVLesB08?usp=sharing "Link al colab")
+
 - Rutas.py : Grafo interactivo
 
 ---
@@ -77,8 +83,8 @@ Realizado por:
     	python -m venv venv
 
 Instalación rápida con pip:
-`pip install -r requirements.txt
-`
+	 pip install -r requirements.txt
+
 # Windows
 	venv\Scripts\activate
 # macOS / Linux
@@ -86,24 +92,24 @@ Instalación rápida con pip:
 
 Instalar dependencias:
 
-bash
 ```
 	pip install -r requirements.txt
-	Ejecutar el código principal:
-```
 
-bash
+```
+**Ejecutar el código principal:**
+
 ```
 	python rutas.py
-	Instrucciones dentro de la consola:
 ```
 
-Seleccionar métrica de optimización (latencia, costo, ancho_banda, riesgo_pirateria).
+**Instrucciones dentro de la consola:**
 
-Ingresar nodo inicial y nodo objetivo.
+1. Seleccionar métrica de optimización (latencia, costo, ancho_banda, riesgo_pirateria).
 
-Ver resultados:
+3. Ingresar nodo inicial y nodo objetivo.
 
-Caminos encontrados por BFS, DFS, UCS o A*.
+5. Ver resultados:
 
-Costo y número de nodos explorados.
+7. Caminos encontrados por BFS, DFS, UCS o A*.
+
+9. Costo y número de nodos explorados.
