@@ -59,7 +59,7 @@ Realizado por:
 - Parcial 1 IA:  Punto 1 y 2
 [Link al colab](https://colab.research.google.com/drive/1fBJsq2tXcKT9RhbKYgcu2XuJJHDw_I6M?usp=sharing "Link al colab")
 - Parcial 1 Parte 2: Punto 4
-[Link al colab](https://colab.research.google.com/drive/1fBJsq2tXcKT9RhbKYgcu2XuJJHDw_I6M?usp=sharing "Link al colab")
+[Link al colab](https://colab.research.google.com/drive/1y_6QE8cve0fC-_zktzfGuovcpDiuxZcD?usp=sharing "Link al colab")
 
 - Parcial 1 - Punto 5
 [Link al colab](https://colab.research.google.com/drive/1Ow_iUl4h2VDbk7I2eGXGmUZkpVLesB08?usp=sharing "Link al colab")
@@ -113,3 +113,4 @@ Instalar dependencias:
 7. Caminos encontrados por BFS, DFS, UCS o A*.
 
 9. Costo y número de nodos explorados.
+
